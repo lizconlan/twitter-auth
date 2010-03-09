@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+== 0.1.22a March 9, 2010
+
+- fixed logout issues
+
 == 0.1.22 - June 19, 2009
 
 - Merged in @pengwynn's OAuth 1.0a support patch. Thanks!
